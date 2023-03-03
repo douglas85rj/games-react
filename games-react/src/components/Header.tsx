@@ -1,13 +1,9 @@
-
-const Header =() =>{
-
-    return
-    (
-    <div>
-
-        Cabeçalho
-    </div>
+const Header = () => {
+    return(
+        <div>
+            Esse é um cabeçalho
+        </div>
     )
 }
 
-export default Header;
+export default Header
