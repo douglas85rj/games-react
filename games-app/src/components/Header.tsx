@@ -1,11 +1,12 @@
+ 
 
 
 const Header = () => {
+   
     return(
 
         <div>
-
-            Cabeçalho da página
+            <h2>Página sobre Games</h2>
         </div>
     )
 }
